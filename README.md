@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&width=800&lines=🚀+Full-Stack+Developer+|+React+•+Node.js+•+MongoDB;🎬+Popcorn+Project+|+Movie+Search+and+Filter+App" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&width=900&lines=🚀+Full-Stack+Developer+|+React+•+Node.js+•+MongoDB;🎬+Popcorn+Project+|+Movie+Search+and+Filter+App" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="Programming Languages" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="Programming Languages" width="50" height="50"/>
 </p>
 <p align="center">
   JavaScript · Python · Java · C++
@@ -27,7 +27,7 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" width="50" height="50"/>
 </p>
 <p align="center">
   React · HTML5 · CSS3 · TailwindCSS
@@ -35,7 +35,7 @@
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" width="50" height="50"/>
 </p>
 <p align="center">
   Node.js · Express
@@ -43,7 +43,7 @@
 
 ### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" width="50" height="50"/>
 </p>
 <p align="center">
   MongoDB · MySQL
