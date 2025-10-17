@@ -11,7 +11,6 @@
 🌱 Currently working on my **Popcorn Movie App** — a modern web app for discovering movies  
 🚀 Always exploring performance optimization and clean UI design  
 📌 Open to remote opportunities, internships, and collaborations  
-📧 Reach me at: **[joseftewodroset@gmail.com](mailto:joseftewodroset@gmail.com)**  
 
 ---
 
@@ -19,7 +18,7 @@
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="Programming Languages" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="Programming Languages"/>
 </p>
 <p align="center">
   JavaScript · Python · Java · C++
@@ -27,7 +26,7 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend"/>
 </p>
 <p align="center">
   React · HTML5 · CSS3 · TailwindCSS
@@ -35,7 +34,7 @@
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
 </p>
 <p align="center">
   Node.js · Express
@@ -43,7 +42,7 @@
 
 ### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
 </p>
 <p align="center">
   MongoDB · MySQL
@@ -63,9 +62,7 @@ Allows users to **search** and **filter** movies with a beautiful, responsive in
 
 #### ✨ Key Features
 - 🔍 Search movies by title  
-- 🎞️ Filter by categories or ratings  
-- 🌙 Dark & Light mode  
-- 📱 Responsive UI  
+- 🎞️ Filter by categories or ratings   
 - ⚡ Fast API data fetching  
 
 ---
