@@ -1,72 +1,72 @@
-<!-- Animated banner -->
+<!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hey%20There!%20I%27m%20Yosef%20Tewodros&font=Comfortaa&fontSize=40&height=120&animation=fadeIn&color=0D1117,2E8B57" alt="banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&width=800&lines=🚀+Full-Stack+Developer+|+React+•+Node.js+•+MongoDB;🎬+Popcorn+Project+|+Movie+Search+and+Filter+App" alt="Typing SVG" />
 </p>
-
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E8B57&width=800&lines=%F0%9F%9A%80%20Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20MongoDB;GitHub%20Popcorn%20Project" alt="typing" />
-</p>
-
-<h1 align="center">👨‍💻 Yosef Tewodros</h1>
-<p align="center">🚀 Full-Stack Developer | React • Node.js • MongoDB • Express</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎯 Passionate Full-Stack Developer who loves solving real-world problems  
-- 🌱 Currently improving my **Popcorn Project**  
-- 🚀 Building web apps using **React, Node.js, and MongoDB**  
-- 📌 Open to collaboration and learning from global developers  
-- 🧠 Focused on writing clean, scalable, and efficient code  
+
+🎯 Passionate Full-Stack Developer who loves solving real-world problems  
+🌱 Currently working on my **Popcorn Movie App** — a modern web app for discovering movies  
+🚀 Always exploring performance optimization and clean UI design  
+📌 Open to remote opportunities, internships, and collaborations  
+📧 Reach me at: **joseftewodroset@gmail.com**
 
 ---
 
-## ⚡ Tech Stack
+## ⚙️ Tech Stack
 
-**Languages**  
-JavaScript · Python · Java · C++
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E8B57&width=700&lines=JavaScript+|+Python+|+Java+|+C%2B%2B;React+|+HTML5+|+CSS3+|+TailwindCSS;Node.js+|+Express+|+MongoDB+|+MySQL" alt="Tech Stack Typing SVG" />
+</p>
 
-**Frontend**  
-React · HTML5 · CSS3 · TailwindCSS
-
-**Backend**  
-Node.js · Express
-
-**Databases**  
-MongoDB · MySQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,react,html,css,tailwind,nodejs,express,mongodb,mysql" alt="Animated Tech Icons" />
+</p>
 
 ---
 
-## 📌 Featured Project
+## 🎬 Featured Project
 
 ### 🍿 Popcorn — Movie Discovery App
-A fun and dynamic app built with **React**, **API integration**, and **responsive UI design**.
 
-**Key Features**
-- 🔍 Movie search and filtering    
-- ⚡ Fast API integration
+A fast and responsive movie search platform built using **React** and **REST API integration**.  
+Allows users to **search** and **filter** movies with a beautiful, responsive interface.
+
+🔗 **Live Demo:** [View Demo](https://your-demo-link-here.com)  
+📂 **Source Code:** [Popcorn Repository](https://github.com/JosefTewodros12/popcorn-project)
+
+#### ✨ Key Features
+- 🔍 Search movies by title  
+- 🎞️ Filter by categories or ratings  
+- 🌙 Dark & Light mode  
+- 📱 Responsive UI  
+- ⚡ Fast API data fetching  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosefTewodros12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JosefTewodros12&show_icons=true&theme=radical" alt="Yosef's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosefTewodros12&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosefTewodros12&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🌍 Connect With Me
-<p align="left">
+
+<p align="center">
   <a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:joseftewodroset@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/JosefTewodros12"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-⭐ If you like my work, consider starring my repositories — it really helps!  
-❤️ Made with code and coffee by **Yosef Tewodros**
+⭐ If you like my work, consider starring my repositories!  
+Made with ❤️ by **Yosef Tewodros**
