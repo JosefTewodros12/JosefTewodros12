@@ -18,7 +18,7 @@
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="Programming Languages" width="70" height="70"/>
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="Programming Languages"/>
 </p>
 <p align="center">
   JavaScript · Python · Java · C++
@@ -26,7 +26,7 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" width="70" height="70"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend"/>
 </p>
 <p align="center">
   React · HTML5 · CSS3 · TailwindCSS
@@ -34,7 +34,7 @@
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" width="70" height="70"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
 </p>
 <p align="center">
   Node.js · Express
@@ -42,7 +42,7 @@
 
 ### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" width="70" height="70"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
 </p>
 <p align="center">
   MongoDB · MySQL
