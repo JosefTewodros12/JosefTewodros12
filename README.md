@@ -19,7 +19,7 @@
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="Programming Languages" width="40" height="40"/>
 </p>
 <p align="center">
   JavaScript · Python · Java · C++
@@ -27,7 +27,7 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" width="40" height="40"/>
 </p>
 <p align="center">
   React · HTML5 · CSS3 · TailwindCSS
@@ -35,7 +35,7 @@
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" width="40" height="40"/>
 </p>
 <p align="center">
   Node.js · Express
@@ -43,7 +43,7 @@
 
 ### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" width="40" height="40"/>
 </p>
 <p align="center">
   MongoDB · MySQL
@@ -73,11 +73,8 @@ Allows users to **search** and **filter** movies with a beautiful, responsive in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosefTewodros12&show_icons=true&theme=radical" alt="Yosef's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosefTewodros12&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JosefTewodros12&show_icons=true&theme=radical&hide_border=true&count_private=true&width=320" alt="GitHub Stats" style="display:inline-block; margin-right:10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosefTewodros12&theme=radical&hide_border=true&width=320" alt="GitHub Streak" style="display:inline-block; margin-left:10px;" />
 </p>
 
 ---
@@ -93,5 +90,7 @@ Allows users to **search** and **filter** movies with a beautiful, responsive in
 
 ---
 
-⭐ If you like my work, consider starring my repositories!  
+<p align="center">
+⭐ If you like my work, consider starring my repositories!<br/>
 Made with ❤️ by **Yosef Tewodros**
+</p>
