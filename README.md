@@ -10,9 +10,7 @@
 🎯 Passionate Full-Stack Developer who loves solving real-world problems  
 🌱 Currently working on my **Popcorn Movie App** — a modern web app for discovering movies  
 🚀 Always exploring performance optimization and clean UI design  
-📌 Open to remote opportunities, internships, and collaborations  
-📧 Reach me at: **[joseftewodroset@gmail.com](mailto:joseftewodroset@gmail.com)**  
-
+📌 Open to remote opportunities, internships, and collaborations   
 ---
 ## ⚙️ Tech Stack
 
@@ -63,8 +61,6 @@ Allows users to **search** and **filter** movies with a beautiful, responsive in
 #### ✨ Key Features
 - 🔍 Search movies by title  
 - 🎞️ Filter by categories or ratings  
-- 🌙 Dark & Light mode  
-- 📱 Responsive UI  
 - ⚡ Fast API data fetching  
 
 ---
@@ -91,5 +87,4 @@ Allows users to **search** and **filter** movies with a beautiful, responsive in
 
 <p align="center">
 ⭐ If you like my work, consider starring my repositories!<br/>
-Made with ❤️ by **Yosef Tewodros**
 </p>
