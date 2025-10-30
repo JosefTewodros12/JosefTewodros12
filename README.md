@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 🎯 Passionate Full-Stack Developer who loves solving real-world problems  
-🌱 Currently working on my **Popcorn Movie App** — a modern web app for discovering movies  
+🌱 Currently working on my **Popcorn Movie App**  a modern web app for discovering movies  
 🚀 Always exploring performance optimization and clean UI design  
 📌 Open to remote opportunities, internships, and collaborations  
 
