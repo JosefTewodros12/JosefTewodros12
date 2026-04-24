@@ -79,7 +79,11 @@ Allows users to **search** and **filter** movies with a beautiful, responsive in
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://linkedin.com/in/yosef-tewodros"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:joseftewodroset@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/JosefTewodros12"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Portfolio" /></a>
+</p></a>
   <a href="mailto:joseftewodroset@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/JosefTewodros12"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Portfolio" /></a>
