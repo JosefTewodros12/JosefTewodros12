@@ -78,15 +78,18 @@
 
 ## 🔗 Connect with Me
 <p align="center">
+  <!-- <a href="https://www.linkedin.com/in/yosef-tewodros/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp; -->
+  <a href="https://x.com/JosefTewodros">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;
+  <a href="mailto:joseftewodros12@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/yosef-tewodros/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;
-  <a href="https://x.com/JosefTewodros">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-</a>&nbsp;
-<a href="mailto:joseftewodros12@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+  </a>
 </p>
 
 <p align="center">
