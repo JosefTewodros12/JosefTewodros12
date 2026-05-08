@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Josef%20Tewodros&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=JosefTewodros12">
     <img src="https://komarev.com/ghpvc/?username=JosefTewodros12&label=Profile%20views&color=00FFFF&style=flat-square" alt="JosefTewodros12's profile views" />
   </a>
-</p>
+</p> -->
 
 
 ## 📌 About Me
