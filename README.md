@@ -1,91 +1,16 @@
-<!-- Typing SVG Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&width=900&lines=🚀+Full-Stack+Developer+|+React+•+Node.js+•+MongoDB;🎬+Popcorn+Project+|+Movie+Search+and+Filter+App" alt="Typing SVG" />
+<h3 align="center">Full-stack and competitive programmer</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseftewodros12" alt="joseftewodros12" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yosef tewodros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosef tewodros" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yoseftewodros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yoseftewodros" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## 👨‍💻 About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseftewodros12&show_icons=true&locale=en" alt="joseftewodros12" /></p>
 
-🎯 Passionate Full-Stack Developer who loves solving real-world problems  
-🌱 Currently working on my **Popcorn Movie App**  a modern web app for discovering movies  
-🚀 Always exploring performance optimization and clean UI design  
-📌 Open to remote opportunities, internships, and collaborations  
-
----
-
-## ⚙️ Tech Stack
-
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="Programming Languages"/>
-</p>
-<p align="center">
-  JavaScript · Python · Java · C++
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend"/>
-</p>
-<p align="center">
-  React · HTML5 · CSS3 · TailwindCSS
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
-</p>
-<p align="center">
-  Node.js · Express
-</p>
-
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
-</p>
-<p align="center">
-  MongoDB · MySQL
-</p>
-
----
-
-## 🎬 Featured Project
-
-### 🍿 Popcorn — Movie Discovery App
-
-A fast and responsive movie search platform built using **React** and **REST API integration**.  
-Allows users to **search** and **filter** movies with a beautiful, responsive interface.
-
-🔗 **Live Demo:** [View Demo](https://your-demo-link-here.com)  
-📂 **Source Code:** [Popcorn Repository](https://github.com/JosefTewodros12/popcorn-project)
-
-#### ✨ Key Features
-- 🔍 Search movies by title  
-- 🎞️ Filter by categories or ratings   
-- ⚡ Fast API data fetching  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosefTewodros12&show_icons=true&theme=radical&hide_border=true&count_private=true&width=320" alt="GitHub Stats" style="display:inline-block; margin-right:10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosefTewodros12&theme=radical&hide_border=true&width=320" alt="GitHub Streak" style="display:inline-block; margin-left:10px;" />
-</p>
-
----
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yosef-tewodros"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:joseftewodroset@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/JosefTewodros12"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Portfolio" /></a>
-</p>
-
----
-
-<p align="center">
-⭐ If you like my work, consider starring my repositories!<br/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseftewodros12&" alt="joseftewodros12" /></p>
