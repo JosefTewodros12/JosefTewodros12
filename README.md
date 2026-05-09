@@ -19,7 +19,6 @@
 
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/JosefTewodros12">
