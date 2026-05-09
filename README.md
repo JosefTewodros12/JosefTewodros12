@@ -23,8 +23,14 @@
   <a href="https://github.com/JosefTewodros12">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosefTewodros12&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="JosefTewodros12's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=JosefTewodros12&theme=radical&hide_border=true&cache_seconds=86400" alt="JosefTewodros12's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=JosefTewodros12&theme=radical&hide_border=true&cache_seconds=86400" alt="JosefTewodros12's GitHub Streak" height="180em" />
 </p>
+<!-- <p align="center">
+  <a href="https://github.com/JosefTewodros12">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosefTewodros12&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="JosefTewodros12's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=JosefTewodros12&theme=radical&hide_border=true&cache_seconds=86400" alt="JosefTewodros12's GitHub Streak" width="49%" />
+</p> -->
 
 
 ## 🛠️ Languages & Tools
