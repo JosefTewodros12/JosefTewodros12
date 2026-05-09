@@ -19,12 +19,14 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
+## 📊 GitHub Stats
+
+<div align="center">
   <a href="https://github.com/JosefTewodros12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosefTewodros12&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="JosefTewodros12's GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosefTewodros12&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10" alt="JosefTewodros12's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=JosefTewodros12&theme=radical&hide_border=true&cache_seconds=86400" alt="JosefTewodros12's GitHub Streak" height="180em" />
-</p>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=JosefTewodros12&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="JosefTewodros12's GitHub Streak" />
+</div>
 <!-- <p align="center">
   <a href="https://github.com/JosefTewodros12">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosefTewodros12&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="JosefTewodros12's GitHub Stats" />
