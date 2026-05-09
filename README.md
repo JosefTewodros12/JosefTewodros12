@@ -18,7 +18,7 @@
 - 📌 Looking for: Collaboration, freelance, or full-time opportunities
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/JosefTewodros12">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosefTewodros12&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="JosefTewodros12's GitHub Stats" />
